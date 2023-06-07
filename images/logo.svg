@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295.92 104.74">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Nunito-ExtraBold, Nunito;
+        font-size: 45px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="new">
+    <text class="cls-1" transform="translate(0 38.36)"><tspan x="0" y="0">AL</tspan><tspan class="cls-2" x="59.13" y="0">E</tspan><tspan class="cls-3" x="85.59" y="0">X</tspan><tspan x="115.29" y="0">ANDRIA</tspan><tspan x="52.63" y="54">SCHOOL</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+main{    
+    display: flex;
+    flex-direction: column;    
+}
+
+.txt-container-aboutUs{
+    margin-top: 55vh;
+}
+
+.txt-container-academics{
+    display: flex;
+    flex-direction: column;
+}
+ 
+
+    
+
